@@ -13,6 +13,7 @@ public class Test1 {
 		k1.enteremailId();
 		k1.enterPassword();
 		k1.pressLoginButton();
+		k1.enteremailId();
 		
 		
 	}
